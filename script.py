@@ -1,3 +1,5 @@
+#!/usr/bin/python3.5
+
 from random import randint
 
 torchon = randint(0,1)
